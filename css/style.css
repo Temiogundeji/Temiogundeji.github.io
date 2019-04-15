@@ -1,0 +1,15 @@
+/******************----CSS RESET------***************/
+html{
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+h1,h2,h3,h4,ul,dl,p,quote{
+    margin:0;
+    padding:0;
+}
+body{
+    margin:0;
+    font-family:Cambria, Cochin, Georgia, Times, Times New Roman, 'sans-serif';
+    font-weight:normal;
+    max-width:60%;
+}
